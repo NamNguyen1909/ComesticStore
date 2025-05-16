@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|d:\\_slide_lthcsdl\\mycomesticshop\\mycomesticshop\\trangchufrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\trangchufrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\forms\\nhanvien\\danhsachnvfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\forms\\nhanvien\\danhsachnvfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\forms\\khachhang\\danhsachkhfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\forms\\khachhang\\danhsachkhfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\forms\\khachhang\\danhsachkhfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\forms\\khachhang\\danhsachkhfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\forms\\nhanvien\\danhsachnvfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\forms\\nhanvien\\danhsachnvfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\forms\\nhanvien\\nhanvienfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\forms\\nhanvien\\nhanvienfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\databaselayer\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\databaselayer\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\forms\\nhanvien\\nhanvienfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\forms\\nhanvien\\nhanvienfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\forms\\khachhang\\khachhangfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\forms\\khachhang\\khachhangfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\forms\\khachhang\\khachhangfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\forms\\khachhang\\khachhangfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\forms\\sanpham_ton\\tonkhofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\forms\\sanpham_ton\\tonkhofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|D:\\_SLIDE_LTHCSDL\\MyComesticShop\\mycomesticshop\\forms\\sanpham_ton\\tonkhofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36F326BC-F5B4-4369-8921-BF35A8855605}|MyComesticShop\\MyComesticShop.csproj|solutionrelative:mycomesticshop\\forms\\sanpham_ton\\tonkhofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhSachNVFrm.cs",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\NhanVien\\DanhSachNVFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\Forms\\NhanVien\\DanhSachNVFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\NhanVien\\DanhSachNVFrm.cs",
+              "RelativeToolTip": "MyComesticShop\\Forms\\NhanVien\\DanhSachNVFrm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDcAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:03:49.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrangChuFrm.cs [Design]",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\TrangChuFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\TrangChuFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\TrangChuFrm.cs [Design]",
+              "RelativeToolTip": "MyComesticShop\\TrangChuFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:47:37.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhSachKHFrm.cs [Design]",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\KhachHang\\DanhSachKHFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\Forms\\KhachHang\\DanhSachKHFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\KhachHang\\DanhSachKHFrm.cs [Design]",
+              "RelativeToolTip": "MyComesticShop\\Forms\\KhachHang\\DanhSachKHFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:06:54.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhSachKHFrm.cs",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\KhachHang\\DanhSachKHFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\Forms\\KhachHang\\DanhSachKHFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\KhachHang\\DanhSachKHFrm.cs",
+              "RelativeToolTip": "MyComesticShop\\Forms\\KhachHang\\DanhSachKHFrm.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAawGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:07:12.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhSachNVFrm.cs [Design]",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\NhanVien\\DanhSachNVFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\Forms\\NhanVien\\DanhSachNVFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\NhanVien\\DanhSachNVFrm.cs [Design]",
+              "RelativeToolTip": "MyComesticShop\\Forms\\NhanVien\\DanhSachNVFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:03:41.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVienFrm.cs",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\NhanVien\\NhanVienFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\Forms\\NhanVien\\NhanVienFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\NhanVien\\NhanVienFrm.cs",
+              "RelativeToolTip": "MyComesticShop\\Forms\\NhanVien\\NhanVienFrm.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAAAD4BAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:05:20.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseAccess.cs",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\DatabaseLayer\\DatabaseAccess.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\DatabaseLayer\\DatabaseAccess.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\DatabaseLayer\\DatabaseAccess.cs",
+              "RelativeToolTip": "MyComesticShop\\DatabaseLayer\\DatabaseAccess.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:52:10.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NhanVienFrm.cs [Design]",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\NhanVien\\NhanVienFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\Forms\\NhanVien\\NhanVienFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\NhanVien\\NhanVienFrm.cs [Design]",
+              "RelativeToolTip": "MyComesticShop\\Forms\\NhanVien\\NhanVienFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:01:58.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhachHangFrm.cs [Design]",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\KhachHang\\KhachHangFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\Forms\\KhachHang\\KhachHangFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\KhachHang\\KhachHangFrm.cs [Design]",
+              "RelativeToolTip": "MyComesticShop\\Forms\\KhachHang\\KhachHangFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:15:49.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHangFrm.cs",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\KhachHang\\KhachHangFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\Forms\\KhachHang\\KhachHangFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\KhachHang\\KhachHangFrm.cs",
+              "RelativeToolTip": "MyComesticShop\\Forms\\KhachHang\\KhachHangFrm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:17:20.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TonKhoFrm.cs",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\SanPham_Ton\\TonKhoFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\Forms\\SanPham_Ton\\TonKhoFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\SanPham_Ton\\TonKhoFrm.cs",
+              "RelativeToolTip": "MyComesticShop\\Forms\\SanPham_Ton\\TonKhoFrm.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:44:24.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TonKhoFrm.cs [Design]",
+              "DocumentMoniker": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\SanPham_Ton\\TonKhoFrm.cs",
+              "RelativeDocumentMoniker": "MyComesticShop\\Forms\\SanPham_Ton\\TonKhoFrm.cs",
+              "ToolTip": "D:\\_SLIDE_LTHCSDL\\MyComesticShop\\MyComesticShop\\Forms\\SanPham_Ton\\TonKhoFrm.cs [Design]",
+              "RelativeToolTip": "MyComesticShop\\Forms\\SanPham_Ton\\TonKhoFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:39:27.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
